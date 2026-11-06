@@ -42,4 +42,4 @@ See `Drone_Detection_Documentation.pdf` for technical details.
 - Evaluate model performance in different environments.
 
 ## Author
-Developed as an AI and Computer Vision project.
+Abu Bakar Siddique
